@@ -1,10 +1,10 @@
 # A forum App
 
-#Vue3 + Nodejs
+# Vue3 + Nodejs
 
 # Development Setup
 
-#Client
+# Client
 ```sh
 
 cd client
