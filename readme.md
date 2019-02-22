@@ -2,9 +2,9 @@
 
 # Vue3 + Nodejs
 
-# Development Setup
+## Development Setup
 
-# Client
+### Client
 ```sh
 
 cd client
@@ -13,7 +13,7 @@ npm run serve
 
 ```
 
-# Server
+### Server
 ```sh
 
 cd server
